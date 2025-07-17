@@ -1,5 +1,4 @@
 
-````markdown
 # 🤖 Smart Multilingual Chatbot – AI-First System with Gemini, LangChain & FAISS
 
 This project is a fully functional AI-first chatbot that can **understand multiple languages**, **perform semantic search**, and **generate intelligent answers** using **LLMs like Gemini**. It is designed with the mindset of building tools *with* AI, not just on top of it.
