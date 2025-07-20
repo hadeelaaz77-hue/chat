@@ -58,7 +58,7 @@ This project was built to explore:
 
 ## 📽️ Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://https://youtu.be/v-Ju4PtYBMg?si=VLbBF4v_D6s9SiDp)
+[![Watch Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/v-Ju4PtYBMg?si=VLbBF4v_D6s9SiDp)
 
 > In the demo, I showcase the chatbot answering multilingual questions, reasoning over internal documents, and accepting feedback to close the loop.
 
