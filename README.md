@@ -58,7 +58,7 @@ This project was built to explore:
 
 ## 📽️ Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/your-demo-link-here)
+[![Watch Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://https://youtu.be/v-Ju4PtYBMg?si=VLbBF4v_D6s9SiDp)
 
 > In the demo, I showcase the chatbot answering multilingual questions, reasoning over internal documents, and accepting feedback to close the loop.
 
@@ -83,4 +83,4 @@ This chatbot is one of the key projects featured in my personal portfolio as an 
 - 🧠 Focus: NLP, LLMs, semantic search, LangChain, RAG  
 - 🏆 Selected for Talented Student Program – 4th place in Fikrathon Hackathon  
 - 💼 Conducted workshops on NLP & RAG using LangChain + Gemini  
-- 👩‍💻 Developer of AI-powered tools like [Samaa.tech](https://samaabot.com) and this chatbot
+- 👩‍💻 Developer of AI-powered tools like [samaabot.com](https://samaabot.com) and this chatbot
