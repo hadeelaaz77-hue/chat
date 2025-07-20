@@ -68,13 +68,13 @@ class Config:
     CHUNK_SIZE = 512
     CHUNK_OVERLAP = 100
     SIMILARITY_THRESHOLD = 0.50
-    LANGSMITH_API_KEY: str = "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"
+    LANGSMITH_API_KEY: str = "Your-API"
     os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     VECTOR_DIR = os.path.join(BASE_DIR, "data", "Victoredb")
     INDEX_PATH = os.path.join(VECTOR_DIR, "faiss_index.bin")
     CHUNK_MAP_PATH = os.path.join(VECTOR_DIR, "chunk_map.pkl")
-    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCjQakHsM7ypOrtYOBmHd6dZ-4MB8iXzUk") 
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "Your-API") 
 #     LANG_CODE_MAP = {
 #     "en": "eng_Latn",
 #     "fr": "fra_Latn",
@@ -102,7 +102,7 @@ def mean_pooling(model_output, attention_mask):
     return (sum_embeddings / sum_mask).detach()
 
 def initialize_services():
-    os.environ["LANGCHAIN_API_KEY"] = "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"
+    os.environ["LANGCHAIN_API_KEY"] = "Your-API"
     os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
